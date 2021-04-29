@@ -1,0 +1,17 @@
+#sort_button{
+    display: none;
+
+}
+.order{
+    margin-left: 50px;
+}
+body{
+background: cyan;
+
+}
+#submit_button{
+    margin-top: 50px;
+}
+#sort_button{
+    margin-top: 50px;
+}
